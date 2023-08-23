@@ -1,2 +1,3 @@
 # QuaddraticEq
-work in progress to generate worksheet of Quadratic Eq with surd solutions
+
+We created a csv file containing the 3 categories of quadratic equations. We checked with the paid version of ChatGPT on how to use it to train an AI model to generate quadratic equations of a particular model. ChatGPT replied that it is more of a task for a generative model, rather than a classifier or a solver, and is a complex task that requires substantial machine learning expertise, and large and diverse dataset of equations for the model to learn from. Additionally, generating equations of a specific category (like 'surd') would require the model to understand the mathematical properties that distinguish that category, which is a challenging task for a machine learning model. Instead, ChatGPT suggested to use rule-based methods to write a Python code to generate the quadratic equations.
